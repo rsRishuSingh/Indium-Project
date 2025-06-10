@@ -1,0 +1,5 @@
+groq        
+langchain  
+PyMuPDF     
+huggingface-hub
+langchain_experimental

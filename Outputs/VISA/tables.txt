@@ -1,0 +1,901 @@
+--- Page 2 Tables ---
+Table 1:
+Class A common stock		1,728,105,021
+Class B-1 common stock		4,835,384
+Class B-2 common stock		120,338,948
+Class C common stock		9,595,774
+
+--- Page 6 Tables ---
+Table 1:
+	In a typical Visa C2B payment transaction, the consumer purchases goods or services from a merchant using a		
+Visa card or payment product. The merchant presents the transaction data to an acquirer, usually a bank or third-party			
+processing firm that supports acceptance of Visa cards or payment products, for verification and processing. Through			
+VisaNet, the acquirer presents the transaction data to Visa, which in turn sends the transaction data to the issuer to			
+check the account holder’s account balance or credit line for authorization. After the transaction is authorized, the			
+issuer posts the transaction to the consumer’s account and effectively pays the acquirer an amount equal to the value			
+of the transaction, minus the interchange reimbursement fee.			The acquirer pays the amount of the purchase, minus the
+merchant discount rate (MDR), to the merchant.			
+
+--- Page 7 Tables ---
+Table 1:
+Visa products nor do we earn revenue from, or bear credit risk with respect to, any of these activities.		Interchange
+reimbursement fees reflect the value merchants receive from accepting our products and play a key role in balancing		
+the costs and benefits that account holders and merchants derive from participating in our payments network.		
+Generally, interchange reimbursement fees are paid by acquirers to issuers. We establish default interchange		
+reimbursement fees that apply absent other established settlement terms. These default interchange reimbursement		
+fees are set independently from the revenue we receive from issuers and acquirers. Our acquiring clients are		
+responsible for setting the fees they charge to merchants for the MDR and for soliciting merchants. Visa sets fees to		
+acquirers independently from any fees that acquirers may charge merchants. Therefore, the fees we receive from		
+issuers and acquirers are not derived from interchange reimbursement fees or MDRs.		
+
+--- Page 21 Tables ---
+Table 1:
+Payments Volume ($B)	12,620		1,665		256		321		7,344
+Total Volume ($B)(2)	15,114		1,680		272		329		9,029
+Total Transactions (B)	284		12		4		7		184
+Cards (M)	4,484		141		72		156		2,948
+
+--- Page 52 Tables ---
+Table 1:
+July 1 - 31, 2024		11		$	267.70		11		$	15,965
+August 1 - 31, 2024		6		$	266.17		6		$	14,438
+September 1 - 30, 2024		5		$	283.54		5		$	13,075
+Total		22		$	270.85		22			
+
+--- Page 53 Tables ---
+Table 1:
+Net revenue	$	35,926		$	32,653		$	29,310		10	%		11	%
+Operating expenses	$	12,331		$	11,653		$	10,497		6	%		11	%
+Net income	$	19,743		$	17,273		$	14,957		14	%		15	%
+Diluted earnings per share	$	9.73		$	8.28		$	7.00		17	%		18	%
+														
+Non-GAAP operating expenses(2)	$	11,609		$	10,481		$	9,387		11	%		12	%
+Non-GAAP net income(2)	$	20,389		$	18,280		$	16,034		12	%		14	%
+Non-GAAP diluted earnings per share(2)	$	10.05		$	8.77		$	7.50		15	%		17	%
+
+--- Page 54 Tables ---
+Table 1:
+	Release of preferred stock.		In July 2024, we released $2.7 billion of the as-converted value from our series B and
+C preferred stock and issued 99,264 shares of series A preferred stock in connection with the eighth anniversary of the			
+Visa Europe acquisition. See			
+Equity		to our consolidated financial statements included in	
+
+--- Page 57 Tables ---
+Table 1:
+As reported	$	12,331		$	321		$	4,173		17.4	%		$	19,743		$	9.73
+(Gains) losses on equity
+investments, net	—			94			12						82			0.04	
+Amortization of acquired intangible
+assets	(178)			—			43						135			0.07	
+Acquisition-related costs	(104)			—			8						96			0.05	
+Litigation provision	(434)			—			97						337			0.17	
+Lease consolidation costs	(57)			—			13						44			0.02	
+Indirect taxes	118			—			(29)						(89)			(0.04)	
+Charitable contribution	(67)			—			26						41			0.02	
+Non-GAAP	$	11,609		$	415		$	4,343		17.6	%		$	20,389		$	10.05
+
+Table 2:
+As reported	$	11,653		$	37		$	3,764		17.9	%		$	17,273		$	8.28
+(Gains) losses on equity
+investments, net	—			104			23						81			0.04	
+Amortization of acquired intangible
+assets	(176)			—			38						138			0.07	
+Acquisition-related costs	(90)			—			7						83			0.04	
+Litigation provision	(906)			—			201						705			0.34	
+Non-GAAP	$	10,481		$	141		$	4,033		18.1	%		$	18,280		$	8.77
+
+--- Page 58 Tables ---
+Table 1:
+As reported	$	10,497		$	(677)		$	3,179	17.5	%		$	14,957		$	7.00
+(Gains) losses on equity
+investments, net	—			264			67					197			0.09	
+Amortization of acquired intangible
+assets	(120)			—			26					94			0.04	
+Acquisition-related costs	(69)			—			9					60			0.03	
+Litigation provision	(861)			—			191					670			0.31	
+Russia-Ukraine charges	(60)			—			4					56			0.03	
+Non-GAAP	$	9,387		$	(413)		$	3,476	17.8	%		$	16,034		$	7.50
+
+Table 2:
+Nominal payments
+volume																									
+Consumer credit	$	2,355		$	2,230		6	%		$	2,959		$	2,810	5	%		$	5,314		$	5,040		5	%
+Consumer debit(3)	2,990			2,826			6	%		3,026			2,680		13	%		6,016			5,506			9	%
+Commercial(4)	1,042			988			5	%		612			553		11	%		1,654			1,540			7	%
+Total nominal payments
+volume(2)	$	6,387		$	6,044		6	%		$	6,597		$	6,042	9	%		$	12,984		$	12,087		7	%
+Cash volume(5)	604			610			(1	%)		1,893			1,844		3	%		2,496			2,454			2	%
+Total nominal volume(2),(6)	$	6,991		$	6,654		5	%		$	8,489		$	7,886	8	%		$	15,480		$	14,541		6	%
+
+--- Page 59 Tables ---
+Table 1:
+Nominal payments
+volume																									
+Consumer credit	$ 2,230			$	2,047		9	%	$ 2,810			$	2,694		4	%		$ 5,040			$	4,741		6	%
+Consumer debit(3)	2,826			2,622			8	%	2,680			2,727			(2	%)		5,506			5,349			3	%
+Commercial(4)	988			879			12	%	553			500			11	%		1,540			1,379			12	%
+Total nominal payments
+volume(2)	$	6,044		$	5,548		9	%	$	6,042		$	5,921		2	%		$	12,087		$	11,469		5	%
+Cash volume(5)	610			631			(3	%)	1,844			1,927			(4	%)		2,454			2,558			(4	%)
+Total nominal volume(2),(6)	$	6,654		$	6,179		8	%	$	7,886		$	7,847		—	%		$	14,541		$	14,026		4	%
+
+Table 2:
+Payments volume
+growth																						
+Consumer credit growth	5	%		9	%		4	%		12	%	5	%		7	%		6	%		10	%
+Consumer debit growth(3)	13	%		12	%		(2	%)		3	%	9	%		9	%		3	%		6	%
+Commercial growth(4)	11	%		13	%		11	%		19	%	7	%		8	%		12	%		15	%
+Total payments volume
+growth	9	%		11	%		2	%		8	%	7	%		8	%		5	%		9	%
+Cash volume growth(5)	3	%		4	%		(4	%)		—	%	2	%		2	%		(4	%)		(1	%)
+Total volume growth	8	%		9	%		—	%		6	%	6	%		7	%		4	%		7	%
+
+Table 3:
+Visa processed transactions	233,758		212,579		192,530		10	%		10	%
+
+--- Page 60 Tables ---
+Table 1:
+U.S.	$	14,780		$	14,138		$	12,851		5	%		10	%
+International	21,146			18,515			16,459			14	%		12	%
+Net revenue	$	35,926		$	32,653		$	29,310		10	%		11	%
+
+Table 2:
+Service revenue	$	16,114		$	14,826		$	13,361		9	%		11	%
+Data processing revenue	17,714			16,007			14,438			11	%		11	%
+International transaction revenue	12,665			11,638			9,815			9	%		19	%
+Other revenue	3,197			2,479			1,991			29	%		24	%
+Client incentives	(13,764)			(12,297)			(10,295)			12	%		19	%
+Net revenue	$	35,926		$	32,653		$	29,310		10	%		11	%
+
+--- Page 62 Tables ---
+Table 1:
+Personnel	$	6,264		$	5,831		$	4,990		7	%		17	%
+Marketing	1,560			1,341			1,336			16	%		—	%
+Network and processing	778			736			743			6	%		(1	%)
+Professional fees	635			545			505			17	%		8	%
+Depreciation and amortization	1,034			943			861			10	%		9	%
+General and administrative	1,598			1,330			1,194			20	%		11	%
+Litigation provision	462			927			868			(50	%)		7	%
+Total operating expenses	$	12,331		$	11,653		$	10,497		6	%		11	%
+
+--- Page 63 Tables ---
+Table 1:
+Interest expense	$	(641)		$	(644)		$	(538)		—	%		20	%
+Investment income (expense) and other	962			681			(139)			41	%		592	%
+Total non-operating income (expense)	$	321		$	37		$	(677)		769	%		105	%
+
+Table 2:
+Effective income tax rate	17	%		18	%		18	%
+
+--- Page 64 Tables ---
+Table 1:
+Total cash provided by (used in):								
+Operating activities	$	19,950		$	20,755		$	18,849
+Investing activities	$	(1,926)		$	(2,006)		$	(4,288)
+Financing activities	$	(20,633)		$	(17,772)		$	(12,696)
+
+--- Page 75 Tables ---
+Table 1:
+Assets					
+Cash and cash equivalents	$	11,975		$	16,286
+Restricted cash equivalents—U.S. litigation escrow	3,089			1,764	
+Investment securities	3,200			3,842	
+Settlement receivable	4,454			2,183	
+Accounts receivable	2,561			2,291	
+Customer collateral	3,524			3,005	
+Current portion of client incentives	1,918			1,577	
+Prepaid expenses and other current assets	3,312			2,584	
+Total current assets	34,033			33,532	
+Investment securities	2,545			1,921	
+Client incentives	4,628			3,789	
+Property, equipment and technology, net	3,824			3,425	
+Goodwill	18,941			17,997	
+Intangible assets, net	26,889			26,104	
+Other assets	3,651			3,731	
+Total assets	$	94,511		$	90,499
+Liabilities					
+Accounts payable	$	479		$	375
+Settlement payable	5,265			3,269	
+Customer collateral	3,524			3,005	
+Accrued compensation and benefits	1,538			1,506	
+Client incentives	9,075			8,177	
+Accrued liabilities	4,909			5,015	
+Accrued litigation	1,727			1,751	
+Total current liabilities	26,517			23,098	
+Long-term debt	20,836			20,463	
+Deferred tax liabilities	5,301			5,114	
+Other liabilities	2,720			3,091	
+Total liabilities	55,374			51,766	
+Commitments and contingencies (Note 18 and Note 20)					
+Equity					
+Preferred stock, $0.0001 par value, 5 shares issued and outstanding as of September 30, 2024 and 2023	1,031			1,698	
+Common stock, $0.0001 par value:					
+Class A common stock, 1,733 and 1,594 shares issued and outstanding as of September 30, 2024 and
+2023, respectively	—			—	
+Class B-1 and B-2 total common stock (collectively, class B common stock), 125 and 245 shares issued
+and outstanding as of September 30, 2024 and 2023, respectively	—			—	
+Class C common stock, 10 shares issued and outstanding as of September 30, 2024 and 2023	—			—	
+Right to recover for covered losses	(104)			(140)	
+Additional paid-in capital	21,229			20,452	
+Accumulated income	17,289			18,040	
+Accumulated other comprehensive income (loss):					
+Investment securities	30			(64)	
+Defined benefit pension and other postretirement plans	(16)			(155)	
+Derivative instruments	(213)			(177)	
+Foreign currency translation adjustments	(109)			(921)	
+Total accumulated other comprehensive income (loss)	(308)			(1,317)	
+Total equity	39,137			38,733	
+Total liabilities and equity	$	94,511		$	90,499
+
+--- Page 76 Tables ---
+Table 1:
+Net revenue	$	35,926		$	32,653		$	29,310
+								
+Operating Expenses								
+Personnel	6,264			5,831			4,990	
+Marketing	1,560			1,341			1,336	
+Network and processing	778			736			743	
+Professional fees	635			545			505	
+Depreciation and amortization	1,034			943			861	
+General and administrative	1,598			1,330			1,194	
+Litigation provision	462			927			868	
+Total operating expenses	12,331			11,653			10,497	
+Operating income	23,595			21,000			18,813	
+								
+Non-operating Income (Expense)								
+Interest expense	(641)			(644)			(538)	
+Investment income (expense) and other	962			681			(139)	
+Total non-operating income (expense)	321			37			(677)	
+Income before income taxes	23,916			21,037			18,136	
+Income tax provision	4,173			3,764			3,179	
+Net income	$	19,743		$	17,273		$	14,957
+								
+Basic Earnings Per Share								
+Class A common stock	$	9.74		$	8.29		$	7.01
+Class B-1 common stock	$	15.46		$	13.26		$	11.33
+Class B-2 common stock(1)	$	15.45		$	—		$	—
+Class C common stock	$	38.97		$	33.17		$	28.03
+								
+Basic Weighted-average Shares Outstanding								
+Class A common stock	1,621			1,618			1,651	
+Class B-1 common stock	148			245			245	
+Class B-2 common stock(1)	49			—			—	
+Class C common stock	16			10			10	
+								
+Diluted Earnings Per Share								
+Class A common stock	$	9.73		$	8.28		$	7.00
+Class B-1 common stock	$	15.45		$	13.24		$	11.31
+Class B-2 common stock(1)	$	15.43		$	—		$	—
+Class C common stock	$	38.92		$	33.13		$	28.00
+								
+Diluted Weighted-average Shares Outstanding								
+Class A common stock	2,029			2,085			2,136	
+Class B-1 common stock	148			245			245	
+Class B-2 common stock(1)	49			—			—	
+Class C common stock	16			10			10	
+
+--- Page 77 Tables ---
+Table 1:
+Net income	$	19,743		$	17,273		$	14,957
+Other comprehensive income (loss):								
+Investment securities:								
+Net unrealized gain (loss)	120			53			(133)	
+Income tax effect	(26)			(11)			28	
+Defined benefit pension and other postretirement plans:								
+Net unrealized actuarial gain (loss) and prior service credit (cost)	172			6			(168)	
+Income tax effect	(40)			—			38	
+Reclassification adjustments	9			10			13	
+Income tax effect	(2)			(2)			(3)	
+Derivative instruments:								
+Net unrealized gain (loss)	(38)			(126)			917	
+Income tax effect	9			24			(177)	
+Reclassification adjustments	—			49			(67)	
+Income tax effect	(7)			(24)			2	
+Foreign currency translation adjustments:								
+Translation adjustments	741			975			(3,255)	
+Income tax effect	71			98			—	
+Other comprehensive income (loss)	1,009			1,052			(2,805)	
+Comprehensive income	$	20,752		$	18,325		$	12,152
+
+--- Page 78 Tables ---
+Table 1:
+	Preferred Stock					Common Stock and
+Additional Paid-in
+Capital					Right to
+Recover
+for
+Covered
+Losses			Accumulated
+Income			Accumulated
+Other
+Comprehensive
+Income (Loss)			Total
+Equity	
+	Shares		Amount			Shares		Amount													
+	(in millions, except per share data)																				
+Balance as of September 30, 2023	5		$	1,698	(1)	1,849		$	20,452		$	(140)		$	18,040		$	(1,317)		$	38,733
+Net income														19,743						19,743	
+Other comprehensive income (loss)																	1,009			1,009	
+VE territory covered losses incurred											(139)									(139)	
+Recovery through conversion rate
+adjustment			(181)								175									(6)	
+Issuance of series A preferred stock	—	(2)	(5)																	(5)	
+Conversions to class A common
+stock	—	(2)	(481)			151		481												—	
+Class B-1 common stock exchange
+offer						(73)		—		(2)										—	
+Share-based compensation								850												850	
+Stock issued under equity plans						6		335												335	
+Shares withheld for taxes related to
+stock issued under equity plans						(1)		(208)												(208)	
+Cash dividends declared and paid,
+at a quarterly amount of $0.52
+per class A common stock														(4,217)						(4,217)	
+Repurchases of class A common
+stock						(64)		(681)						(16,277)						(16,958)	
+Balance as of September 30,
+2024	5		$	1,031	(1)	1,868		$	21,229		$	(104)		$	17,289		$	(308)		$	39,137
+
+--- Page 79 Tables ---
+Table 1:
+Common Stock and Right to
+Additional Paid-in Recover
+Preferred Stock Capital for
+Covered Accumulated
+Shares Amount Shares Amount Losses Income	Accumulated
+Other
+Comprehensive
+Income (Loss)	Total
+Equity
+
+Table 2:
+Balance as of September 30, 2022	5		$	2,324	(1)	1,890		$	19,545		$	(35)		$	16,116		$	(2,369)		$	35,581
+Net income														17,273						17,273	
+Other comprehensive income (loss)																	1,052			1,052	
+VE territory covered losses incurred											(136)									(136)	
+Recovery through conversion rate
+adjustment			(30)								31									1	
+Conversions to class A common
+stock	—	(2)	(596)			10		596												—	
+Share-based compensation								765												765	
+Stock issued under equity plans						5		260												260	
+Shares withheld for taxes related to
+stock issued under equity plans						(1)		(130)												(130)	
+Cash dividends declared and paid, at
+a quarterly amount of $0.45 per
+class A common stock														(3,751)						(3,751)	
+Repurchases of class A common
+stock						(55)		(584)						(11,598)						(12,182)	
+Balance as of September 30, 2023	5		$	1,698	(1)	1,849		$	20,452		$	(140)		$	18,040		$	(1,317)		$	38,733
+
+--- Page 80 Tables ---
+Table 1:
+Balance as of September 30, 2021	5		$	3,080	(1)	1,932		$	18,855		$	(133)		$	15,351		$	436		$	37,589
+Net income														14,957						14,957	
+Other comprehensive income (loss)																	(2,805)			(2,805)	
+VE territory covered losses incurred											(43)									(43)	
+Recovery through conversion rate
+adjustment			(141)								141									—	
+Issuance of series A preferred stock	—	(2)	(3)																	(3)	
+Conversions to class A common
+stock	—	(2)	(612)			10		612												—	
+Share-based compensation								602												602	
+Stock issued under equity plans						4		196												196	
+Shares withheld for taxes related to
+stock issued under equity plans						—	(2)	(120)												(120)	
+Cash dividends declared and paid,
+at a quarterly amount of $0.375
+per class A common stock														(3,203)						(3,203)	
+Repurchases of class A common
+stock						(56)		(600)						(10,989)						(11,589)	
+Balance as of September 30, 2022	5		$	2,324	(1)	1,890		$	19,545		$	(35)		$	16,116		$	(2,369)		$	35,581
+
+--- Page 81 Tables ---
+Table 1:
+Operating Activities								
+Net income	$	19,743		$	17,273		$	14,957
+Adjustments to reconcile net income to net cash provided by (used in) operating activities:								
+Client incentives	13,764			12,297			10,295	
+Share-based compensation	850			765			602	
+Depreciation and amortization	1,034			943			861	
+Deferred income taxes	(100)			(483)			(336)	
+VE territory covered losses incurred	(139)			(136)			(43)	
+(Gains) losses on equity investments, net	94			104			264	
+Other	136			14			(94)	
+Change in operating assets and liabilities:								
+Settlement receivable	(2,175)			(160)			(397)	
+Accounts receivable	(237)			(250)			(97)	
+Client incentives	(14,067)			(11,014)			(9,351)	
+Other assets	(199)			(24)			(666)	
+Accounts payable	109			34			67	
+Settlement payable	1,841			(194)			1,256	
+Accrued and other liabilities	(676)			1,291			1,055	
+Accrued litigation	(28)			295			476	
+Net cash provided by (used in) operating activities	19,950			20,755			18,849	
+Investing Activities								
+Purchases of property, equipment and technology	(1,257)			(1,059)			(970)	
+Purchases of investment securities	(4,443)			(4,363)			(5,997)	
+Proceeds from maturities and sales of investment securities	5,013			3,160			4,585	
+Acquisitions, net of cash and restricted cash acquired	(915)			—			(1,948)	
+Purchases of other investments	(231)			(121)			(86)	
+Settlement of derivative instruments	—			402			—	
+Other investing activities	(93)			(25)			128	
+Net cash provided by (used in) investing activities	(1,926)			(2,006)			(4,288)	
+Financing Activities								
+Repurchases of class A common stock	(16,713)			(12,101)			(11,589)	
+Repayments of debt	—			(2,250)			(1,000)	
+Dividends paid	(4,217)			(3,751)			(3,203)	
+Proceeds from issuance of senior notes	—			—			3,218	
+Proceeds from stock issued under equity plans	335			260			196	
+Taxes paid related to stock issued under equity plans	(208)			(130)			(120)	
+Other financing activities	170			200			(198)	
+Net cash provided by (used in) financing activities	(20,633)			(17,772)			(12,696)	
+Effect of exchange rate changes on cash, cash equivalents, restricted cash and restricted cash equivalents	382			636			(1,287)	
+Increase (decrease) in cash, cash equivalents, restricted cash and restricted cash equivalents	(2,227)			1,613			578	
+Cash, cash equivalents, restricted cash and restricted cash equivalents as of beginning of period	21,990			20,377			19,799	
+Cash, cash equivalents, restricted cash and restricted cash equivalents as of end of period	$	19,763		$	21,990		$	20,377
+Supplemental Disclosure								
+Cash paid for income taxes, net	$	5,775		$	3,433		$	3,741
+Interest payments on debt	$	583		$	617		$	607
+Accruals related to purchases of property, equipment and technology	$	52		$	96		$	56
+
+--- Page 90 Tables ---
+Table 1:
+Service revenue	$	16,114		$	14,826		$	13,361
+Data processing revenue	17,714			16,007			14,438	
+International transaction revenue	12,665			11,638			9,815	
+Other revenue	3,197			2,479			1,991	
+Client incentives	(13,764)			(12,297)			(10,295)	
+Net revenue	$	35,926		$	32,653		$	29,310
+
+--- Page 91 Tables ---
+Table 1:
+U.S.	$	14,780		$	14,138		$	12,851
+
+Table 2:
+Net revenue	$	35,926		$	32,653		$	29,310
+
+Table 3:
+Cash and cash equivalents	$	11,975		$	16,286
+Restricted cash and restricted cash equivalents:					
+U.S. litigation escrow	3,089			1,764	
+Customer collateral	3,524			3,005	
+Prepaid expenses and other current assets	1,175			935	
+Cash, cash equivalents, restricted cash and restricted cash equivalents	$	19,763		$	21,990
+
+--- Page 92 Tables ---
+Table 1:
+Balance as of beginning of period	$	1,764		$	1,449
+Deposits into the U.S. litigation escrow account	1,500			1,000	
+Payments to opt-out merchants (1), net of interest earned on escrow funds	(175)			(685)	
+Balance as of end of period	$	3,089		$	1,764
+
+--- Page 96 Tables ---
+Table 1:
+Balance as of beginning of period	$	441		$	801		$	(140)
+VE territory covered losses incurred(1)	—			—			(139)	
+Recovery through conversion rate adjustment(2)	(161)			(20)			175	
+Eighth Anniversary Release	(176)			(394)			—	
+Balance as of end of period	$	104		$	387		$	(104)
+
+Table 2:
+Balance as of beginning of period	$	460		$	812		$	(35)
+VE territory covered losses incurred(1)	—			—			(136)	
+Recovery through conversion rate adjustment(2)	(19)			(11)			31	
+Balance as of end of period	$	441		$	801		$	(140)
+
+Table 3:
+Series B preferred stock	$	684	$	104		$	1,676		$	441
+Series C preferred stock	1,550		387			2,635			801	
+Total	2,234		491			4,311			1,242	
+Less: right to recover for covered losses	(104)		(104)			(140)			(140)	
+Total recovery for covered losses available	$	2,130	$	387		$	4,171		$	1,102
+
+Table 4:
+.9370	and 3.6290	
+) $230.01		, Visa’s cl
+
+--- Page 97 Tables ---
+Table 1:
+Level 1		Level 2
+
+Table 2:
+	(in millions)										
+Assets											
+Cash equivalents and restricted cash
+equivalents:											
+Money market funds	$	10,403		$	13,504		$	—		$	—
+U.S. Treasury securities	7			301			—			—	
+Investment securities:											
+Marketable equity securities	301			339			—			—	
+U.S. government-sponsored debt securities	—			—			496			1,108	
+U.S. Treasury securities	4,948			4,316			—			—	
+Other current and non-current assets:											
+Money market funds	25			23			—			—	
+Derivative instruments	—			—			103			293	
+Total	$	15,684		$	18,483		$	599		$	1,401
+Liabilities											
+Accrued compensation and benefits:											
+Deferred compensation liability	$	238		$	175		$	—		$	—
+Accrued and other liabilities:											
+Derivative instruments	—			—			226			396	
+Total	$	238		$	175		$	226		$	396
+
+Table 3:
+	September 30, 2024										
+	Amortized
+Cost			Gross Unrealized						Fair
+Value	
+				Gains			Losses				
+	(in millions)										
+U.S. government-sponsored debt securities	$	492		$	4		$	—		$	496
+U.S. Treasury securities	4,920			40			(5)			4,955	
+Total	$	5,412		$	44		$	(5)		$	5,451
+
+--- Page 98 Tables ---
+Table 1:
+	September 30, 2023									
+	Amortized
+Cost		Gross Unrealized
+Gains Losses						Fair
+Value	
+						Losses				
+	(in millions)									
+U.S. government-sponsored debt securities	$	1,109	$	1		$	(2)		$	1,108
+U.S. Treasury securities	4,697		—			(80)			4,617	
+Total	$	5,806	$	1		$	(82)		$	5,725
+
+Table 2:
+U.S. government-sponsored debt securities	$	—	$	—		$	164		$	—
+U.S. Treasury securities	—		—			1,019			(5)	
+Total	$	—	$	—		$	1,183		$	(5)
+
+Table 3:
+U.S. government-sponsored debt securities	$	412	$	(2)		$	50		$	—
+U.S. Treasury securities	1,360		(12)			2,128			(68)	
+Total	$	1,772	$	(14)		$	2,178		$	(68)
+
+Table 4:
+Due within one year		$	2,968
+Due after one year through five years		2,483	
+Total		$	5,451
+
+--- Page 99 Tables ---
+Table 1:
+Initial cost basis	$	711		$	719
+Adjustments:					
+Upward adjustments	910			899	
+Downward adjustments, including impairment	(465)			(445)	
+Carrying amount	$	1,156		$	1,173
+
+Table 2:
+Upward adjustments	$	10		$	94		$	231
+Downward adjustments, including impairment	$	(35)		$	(99)		$	(341)
+
+Table 3:
+Interest and dividend income on cash and investments	$	992		$	745		$	69
+Gains (losses) on investments, net	(44)			(82)			(296)	
+Investment income (expense)	$	948		$	663		$	(227)
+
+--- Page 100 Tables ---
+Table 1:
+Land	$	72		$	71
+Buildings and building improvements	1,042			1,022	
+Furniture, equipment and leasehold improvements	2,301			2,146	
+Construction-in-progress	222			344	
+Technology	5,660			5,197	
+Total property, equipment and technology	9,297			8,780	
+Accumulated depreciation and amortization	(5,473)			(5,355)	
+Property, equipment and technology, net	$	3,824		$	3,425
+
+Table 2:
+	(in millions)																			
+Estimated future amortization
+expense	$	701		$	532		$	385		$	265		$	127		$	142		$	2,152
+
+Table 3:
+Finite-lived intangible assets:																	
+Customer relationships	$	535		$	(298)		$	237		$	829		$	(572)		$	257
+Trade names	190			(179)			11			195			(172)			23	
+Other	—			—			—			111			(111)			—	
+Total finite-lived intangible assets	725			(477)			248			1,135			(855)			280	
+Indefinite-lived intangible assets:																	
+Customer relationships and
+reacquired rights	22,557			—			22,557			21,740			—			21,740	
+Visa trade name	4,084			—			4,084			4,084			—			4,084	
+Total indefinite-lived intangible
+assets	26,641			—			26,641			25,824			—			25,824	
+Total intangible assets	$	27,366		$	(477)		$	26,889		$	26,959		$	(855)		$	26,104
+
+--- Page 101 Tables ---
+Table 1:
+	(in millions)																			
+Estimated future amortization
+expense	$	67		$	51		$	49		$	32		$	18		$	31		$	248
+
+Table 2:
+Balance as of beginning of period	$	17,997		$	17,787
+Goodwill from acquisitions	790			—	
+Foreign currency translation	154			210	
+Balance as of end of period	$	18,941		$	17,997
+
+--- Page 102 Tables ---
+Table 1:
+	(in millions)	
+Fiscal:		
+2025	$	179
+2026	162	
+2027	123	
+2028	99	
+2029	76	
+Thereafter	357	
+Total undiscounted lease payments	996	
+Less: imputed interest	(161)	
+Present value of lease liabilities	$	835
+
+--- Page 103 Tables ---
+Table 1:
+	(in millions, except percentages)							
+U.S. dollar notes								
+3.15% Senior Notes due December 2025	$	4,000		$	4,000		3.26	%
+1.90% Senior Notes due April 2027	1,500			1,500			2.02	%
+0.75% Senior Notes due August 2027	500			500			0.84	%
+2.75% Senior Notes due September 2027	750			750			2.91	%
+2.05% Senior Notes due April 2030	1,500			1,500			2.13	%
+1.10% Senior Notes due February 2031	1,000			1,000			1.20	%
+4.15% Senior Notes due December 2035	1,500			1,500			4.23	%
+2.70% Senior Notes due April 2040	1,000			1,000			2.80	%
+4.30% Senior Notes due December 2045	3,500			3,500			4.37	%
+3.65% Senior Notes due September 2047	750			750			3.73	%
+2.00% Senior Notes due August 2050	1,750			1,750			2.09	%
+Euro notes								
+1.50% Senior Notes due June 2026	1,513			1,434			1.71	%
+2.00% Senior Notes due June 2029	1,120			1,062			2.13	%
+2.375% Senior Notes due June 2034	728			690			2.53	%
+Total debt	21,111			20,936				
+Unamortized discounts and debt issuance costs	(142)			(159)				
+Hedge accounting fair value adjustments(2)	(133)			(314)				
+Total carrying value of debt	$	20,836		$	20,463			
+								
+Reported as:								
+Current maturities of debt	$	—		$	—			
+Long-term debt	20,836			20,463				
+Total carrying value of debt	$	20,836		$	20,463			
+
+Table 2:
+Future principal payments	$	—		$	5,513		$	2,750		$	—		$ 1,120		$	11,728		$	21,111
+
+--- Page 105 Tables ---
+Table 1:
+Assets								
+Designated as Hedging Instruments:								
+Foreign exchange forward contracts		Prepaid expenses and other current
+assets		$	49		$	100
+Cross-currency swaps		Other assets		$	36		$	178
+Not Designated as Hedging Instruments:								
+Foreign exchange forward contracts		Prepaid expenses and other current
+assets		$	18		$	15
+Liabilities								
+Designated as Hedging Instruments:								
+Foreign exchange forward contracts		Accrued liabilities		$	74		$	66
+Cross-currency swaps		Other liabilities		$	2		$	—
+Interest rate swaps(1)		Other liabilities		$	133		$	314
+Not Designated as Hedging Instruments:								
+Foreign exchange forward contracts		Accrued liabilities		$	17		$	16
+
+--- Page 106 Tables ---
+Table 1:
+U.S.	$	1,738		$	1,286
+International	591			544	
+Total	$	2,329		$	1,830
+
+--- Page 107 Tables ---
+Table 1:
+Series A preferred stock	—	(2)	100.0000		9		—	(2)	100.0000		7
+Series B preferred stock	2		1.0030		2		2		2.9370		7
+Series C preferred stock	3		1.7860		6		3		3.6290		11
+Class A common stock	1,733		—		1,733		1,594		—		1,594
+Class B-1 common stock	5		1.5653	(3)	8		245		1.5875	(3)	390
+Class B-2 common stock	120		1.5430	(3)	186		—	(4)	—		—
+Class C common stock	10		4.0000		39		10		4.0000		38
+Total					1,983						2,047
+
+Table 2:
+Reduction in equivalent number of class A common stock	5	5		4
+
+Table 3:
+Deposits into the U.S. litigation escrow account	$	1,500	$	1,000		$	850
+
+--- Page 108 Tables ---
+Table 1:
+Reduction in equivalent number of
+class A common stock	5			6			—		(1)	—		(1)	8			10	
+Effective price per share(2)	$	272.89		$	273.24		$	219.12		$	215.28		$	197.93		$	197.50
+Recovery through conversion rate
+adjustment	$	161		$	20		$	19		$	11		$	135		$	6
+Anniversary Releases	$	1,149		$	1,569		$	—		$	—		$	1,510		$	1,982
+
+Table 2:
+Shares repurchased in the open market(1)	64		55		56
+
+Table 3:
+Total cost(2)	$	16,958		$	12,182		$	11,589
+
+--- Page 111 Tables ---
+Table 1:
+	(in millions, except per share data)														
+Class A common stock	$	15,790		1,621		$	9.74		$	19,743	(3)	2,029	(3)	$	9.73
+Class B-1 common stock	2,292			148		$	15.46		$	2,289		148		$	15.45
+Class B-2 common
+stock(4)	752			49		$	15.45		$	751		49		$	15.43
+Class C common stock	623			16		$	38.97		$	623		16		$	38.92
+Participating securities	286			Not presented		Not presented			$	286		Not presented		Not presented	
+Net income	$	19,743													
+
+Table 2:
+	(in millions, except per share data)														
+Class A common stock	$	13,415		1,618		$	8.29		$	17,273	(3)	2,085	(3)	$	8.28
+Class B-1 common stock	3,254			245		$	13.26		$	3,251		245		$	13.24
+Class C common stock	320			10		$	33.17		$	319		10		$	33.13
+Participating securities	284			Not presented		Not presented			$	284		Not presented		Not presented	
+Net income	$	17,273													
+
+--- Page 112 Tables ---
+Table 1:
+	(in millions, except per share data)														
+Class A common stock	$	11,569		1,651		$	7.01		$	14,957	(3)	2,136	(3)	$	7.00
+Class B-1 common stock	2,781			245		$	11.33		$	2,778		245		$	11.31
+Class C common stock	280			10		$	28.03		$	280		10		$	28.00
+Participating securities	327			Not presented		Not presented			$	326		Not presented		Not presented	
+Net income	$	14,957													
+
+Table 2:
+Class B-1 common stock	235		392		397
+Class B-2 common stock(1)	77		—		—
+Class C common stock	64		39		40
+Participating securities	29		34		47
+
+--- Page 113 Tables ---
+Table 1:
+Expected term (in years)(1)	4.23				4.17				4.11		
+Risk-free rate of return(2)	4.4		%		4.0		%		1.1		%
+Expected volatility(3)	24.1		%		28.6		%		27.1		%
+Expected dividend yield(4)	0.8		%		0.8		%		0.7		%
+Fair value per option granted	$	62.55			$	57.31			$	43.16	
+
+Table 2:
+Outstanding as of September 30, 2023	5,925,355		$	162.40					
+Granted	722,695		$	249.56					
+Forfeited	(39,776)		$	220.53					
+Exercised	(1,243,542)		$	122.21					
+Outstanding as of September 30, 2024	5,364,732		$	183.02		5.96		$	493
+Options exercisable as of September 30, 2024	3,862,434		$	165.79		5.01		$	422
+Options exercisable and expected to vest as of
+September 30, 2024(2)	5,323,802		$	182.59		5.94		$	492
+
+Table 3:
+vesting in full under certain conditions. Upon vesting,		RSUs can be settled in class A common stock on a one-for-one
+basis or in cash, or a combination thereof, at the Company’s option. T		
+any RSUs in cash. During the vesting period,	RSU award recipients are eligible to receive dividend equivalents,	
+
+--- Page 114 Tables ---
+Table 1:
+Outstanding as of September 30, 2023	6,417,397		$	209.19				
+Granted	3,221,842		$	253.29				
+Vested	(2,953,860)		$	208.69				
+Forfeited	(325,718)		$	224.82				
+Outstanding as of September 30, 2024	6,359,661		$	230.99	0.93		$	1,749
+
+Table 2:
+For the Company’s performance-based shares, in addition to service conditions,	the ultimate number of shares to	
+be earned depends on the achievement of both performance and market conditions. T		he performance condition is
+
+Table 3:
+Expected term (in years)	1.93				2.15				2.05		
+Risk-free rate of return(1)	4.8		%		4.4		%		0.5		%
+Expected volatility(2)	21.7		%		28.9		%		28.3		%
+Expected dividend yield(3)	0.8		%		0.8		%		0.8		%
+Fair value per performance-based share granted	$	281.85			$	221.32			$	186.50	
+
+Table 4:
+	Performance-based shares vest over three years and are subject to earlier vesting in full under certain conditions.				
+During fiscal			2024, 2023 and 2022	, the total grant date fair value of performance-based shares vested and earned was	
+$81 million		,	$44 million and $49 million, respectively. Compensation cost for performance-based shares is initially		
+estimated based on target performance. It is recorded net of estimated forfeitures and adjusted as appropriat					e
+
+--- Page 115 Tables ---
+Table 1:
+Outstanding as of September 30, 2023	998,502		$	212.28					
+Granted(2)	528,008		$	281.85					
+Vested and earned	(406,009)		$	198.79					
+Unearned	(28,691)		$	195.38					
+Forfeited	(7,578)		$	248.50					
+Outstanding as of September 30, 2024	1,084,232		$	251.41		0.88		$	298
+
+Table 2:
+Software licenses	$	194		$	78		$	8		$	1		$	—		$	—		$	281
+
+Table 3:
+U.S.	$	14,537		$	13,339		$	11,051
+Non-U.S.	9,379			7,698			7,085	
+Total income before income taxes	$	23,916		$	21,037		$	18,136
+
+--- Page 116 Tables ---
+Table 1:
+Current:								
+U.S. federal	$	2,694		$	2,630		$	2,166
+State and local	298			293			104	
+Non-U.S.	1,281			1,324			1,245	
+Total current taxes	4,273			4,247			3,515	
+Deferred:								
+U.S. federal	(132)			(339)			(231)	
+State and local	(18)			(1)			(77)	
+Non-U.S.	50			(143)			(28)	
+Total deferred taxes	(100)			(483)			(336)	
+Total income tax provision	$	4,173		$	3,764		$	3,179
+
+Table 2:
+Deferred Tax Assets:					
+Accrued compensation and benefits	$	221		$	212
+Accrued litigation	374			365	
+Client incentives	855			630	
+Net operating loss carryforwards	206			232	
+Comprehensive loss	79			72	
+Federal benefit of state taxes	16			125	
+Other	102			66	
+Valuation allowance	(212)			(149)	
+Deferred tax assets	1,641			1,553	
+Deferred Tax Liabilities:					
+Property, equipment and technology, net	(295)			(350)	
+Intangible assets	(6,404)			(6,063)	
+Unrealized gains on equity securities	(81)			(103)	
+Foreign taxes	(22)			(25)	
+Deferred tax liabilities	(6,802)			(6,541)	
+Net deferred tax liabilities	$	(5,161)		$	(4,988)
+
+--- Page 117 Tables ---
+Table 1:
+U.S. federal income tax at statutory
+rate	$	5,022		21	%		$	4,418		21	%		$	3,809		21	%
+State income taxes, net of federal
+benefit	258			1	%		245			1	%		216			1	%
+Non-U.S. tax effect, net of federal
+benefit	(828)			(4	%)		(758)			(3	%)		(588)			(3	%)
+Reassessment of an uncertain tax
+position	—			—	%		(142)			(1	%)		—			—	%
+Conclusion of audits	(223)			(1	%)		—			—	%		—			—	%
+State tax apportionment position	—			—	%		—			—	%		(176)			(1	%)
+Other, net	(56)			—	%		1			—	%		(82)			—	%
+Income tax provision	$	4,173		17	%		$	3,764		18	%		$	3,179		18	%
+
+--- Page 118 Tables ---
+Table 1:
+Balance as of beginning of period	$	3,497		$	2,683		$	2,488
+Increase in unrecognized tax benefits related to prior years	148			515			10	
+Decrease in unrecognized tax benefits related to prior years	(322)			(190)			(143)	
+Increase in unrecognized tax benefits related to current year	556			510			350	
+Decrease related to settlements with taxing authorities	(127)			(17)			(19)	
+Reduction related to lapsing statute of limitations	(2)			(4)			(3)	
+Balance as of end of period	$	3,750		$	3,497		$	2,683
+
+--- Page 119 Tables ---
+Table 1:
+Balance as of beginning of period	$	1,751		$	1,456
+Provision for uncovered legal matters	322			21	
+Provision for covered legal matters	248			1,024	
+Payments for legal matters	(594)			(750)	
+Balance as of end of period	$	1,727		$	1,751
+
+Table 2:
+Balance as of beginning of period	$	1,621		$	1,441
+Provision for interchange multidistrict litigation	140			906	
+Payments for U.S. covered litigation	(224)			(726)	
+Balance as of end of period	$	1,537		$	1,621
+
+--- Page 120 Tables ---
+Table 1:
+Balance as of beginning of period	$	110		$	11
+Provision for VE territory covered litigation	108			118	
+Payments for VE territory covered litigation	(146)			(19)	
+Balance as of end of period	$	72		$	110
+

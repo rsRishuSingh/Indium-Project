@@ -22,7 +22,7 @@ vectorstore = FAISS.from_documents(documents, embedding_model)
 vectorstore.save_local("faiss_Vectorstore")
 
 new_vectorstore = FAISS.load_local(
-    "faiss_index_store",
+    "faiss_Vectorstore",
       embedding_model,  
       allow_dangerous_deserialization=True)
 

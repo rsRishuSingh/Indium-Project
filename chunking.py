@@ -2,7 +2,7 @@ import os
 import fitz  # PyMuPDF
 from langchain.text_splitter import CharacterTextSplitter, RecursiveCharacterTextSplitter
 from langchain_experimental.text_splitter import SemanticChunker
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from transformers import pipeline
 from groq import Groq
 
@@ -28,7 +28,8 @@ def useGroq():
     )
     for chunk in completion:
         print(chunk.choices[0].delta.content or "", end="")
-
+# spiltter is chunker here  
+# plitter.split_text(text) generate txtual chunks
 # Define splitting functions 
 def character_split(text, chunk_size=1000, chunk_overlap=200):
     splitter = CharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
@@ -38,14 +39,10 @@ def recursive_split(text, chunk_size=1000, chunk_overlap=200):
     splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
     return splitter.split_text(text)
 
-def semantic_split(text, embeddings, **kwargs):
-    print(text)
-    print(embeddings)
-    query_result = embeddings.embed_query(text)
-    print(query_result)
-    chunker = SemanticChunker(embeddings=query_result, **kwargs)
-    print(chunker)
-    return chunker.split_text(text)
+def semantic_split(text, embeddings_model , **kwargs):
+    chunker = SemanticChunker(embeddings_model, **kwargs)
+    chunks = chunker.split_text(text)
+    return chunks
 
 def page_wise_split(page_texts):
     return page_texts
@@ -61,12 +58,14 @@ def print_chunks(chunks, num_to_print=3):
 def extract_text_from_pdf(pdf_path):
     doc = fitz.open(pdf_path)
     page_texts = []
+    full_text_list = []
     for page in doc:
         text = page.get_text("text")
         page_texts.append(text)
+        full_text_list.append(text);
     doc.close()
     full_text = "\n".join(page_texts)
-    return full_text, page_texts
+    return full_text, page_texts, full_text_list
 
 # Main processing
 INP_DIR = 'PDFs/'
@@ -80,32 +79,31 @@ def main():
         try:
             # Extract text from PDF
             pdf_path = INP_DIR + pdf + BASE_EXT
-            full_text, page_texts = extract_text_from_pdf(pdf_path)
+            full_text, page_texts,full_text_list  = extract_text_from_pdf(pdf_path)
             
             # Apply splitting methods
-            # chunks_char = character_split(full_text)
-            # chunks_recursive = recursive_split(full_text)
-            chunks_semantic = semantic_split(full_text,embeddings,breakpoint_threshold_type="percentile")
-            # chunks_page = page_wise_split(page_texts)
+            chunks_char = character_split(full_text)
+            chunks_recursive = recursive_split(full_text)
+            chunks_semantic = semantic_split(full_text,embeddings_model,breakpoint_threshold_type="percentile")
+            chunks_page = page_wise_split(page_texts)
             
             # Print results
             print(f"\nProcessing {pdf}")
-            # print("### Character Split:")
-            # print_chunks(chunks_char)
-            # print("\n### Recursive Split:")
-            # print_chunks(chunks_recursive)
+            print("### Character Split:")
+            print_chunks(chunks_char)
+            print("\n### Recursive Split:")
+            print_chunks(chunks_recursive)
             print("\n### Semantic Split:")
             print_chunks(chunks_semantic)
-            # print("\n### Page-wise Split:")
-            # print_chunks(chunks_page)
+            print("\n### Page-wise Split:")
+            print_chunks(chunks_page)
         
         except Exception as e:
             print(f"Error processing {pdf}: {e}")
 
 
 # Load embedding model from Hugging Face
-embeddings = HuggingFaceInferenceAPIEmbeddings(
-    api_key= hf_api_key, model_name="Qwen/Qwen3-Embedding-8B"
+embeddings_model  = HuggingFaceEmbeddings(model_name="Qwen/Qwen3-Embedding-0.6B"
 )
 
 main()

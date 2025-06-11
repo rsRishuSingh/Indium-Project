@@ -7,8 +7,7 @@ from transformers import pipeline
 from groq import Groq
 
 # Initialize Groq client for LLM 
-hf_api_key = os.environ.get("GROQ_API_KEY")
-groq_api_key = os.environ.get("HUGGINGFACEHUB_API_TOKEN")
+groq_api_key = os.environ.get("GROQ_API_KEY")
 
 # Load embedding model from Hugging Face
 embeddings_model  = HuggingFaceEmbeddings(model_name="Qwen/Qwen3-Embedding-0.6B"

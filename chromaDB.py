@@ -10,7 +10,7 @@ class LocalHFEmbedding(EmbeddingFunction):
 
 # …
 
-chroma_client = PersistentClient(path="path/to/save/to")
+chroma_client = PersistentClient(path="chromaDB/saved/")
 #All writes (add, delete, etc.) are auto-persisted to that folder — you don’t call persist() manually.
 
 # — create or load a collection —

@@ -19,7 +19,7 @@ documents = [Document(page_content=text) for text in texts]
 # Flat: No compression or approximation. It stores all vectors in memory.
 # L2: Distance metric is Euclidean distance.
 vectorstore = FAISS.from_documents(documents, embedding_model)
-vectorstore.save_local("faiss_index_store")
+vectorstore.save_local("faiss_Vectorstore")
 
 new_vectorstore = FAISS.load_local(
     "faiss_index_store",

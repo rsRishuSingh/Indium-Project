@@ -1,5 +1,13 @@
 groq        
-langchain  
+torch
+numpy
 PyMuPDF     
+chromadb 
+langchain  
+transformers
+qdrant-client
 huggingface-hub
+langchain_community
+langchain_huggingface
+sentence_transformers
 langchain_experimental

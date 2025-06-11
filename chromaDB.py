@@ -8,12 +8,12 @@ class LocalHFEmbedding(EmbeddingFunction):
     def __call__(self, input: list[str]) -> list[list[float]]:
         return self.model.encode(input).tolist()
 
-# …
+
 
 chroma_client = PersistentClient(path="chromaDB/saved/")
 #All writes (add, delete, etc.) are auto-persisted to that folder — you don’t call persist() manually.
 
-# — create or load a collection —
+
 collection = chroma_client.get_or_create_collection(
     name="my_collection",
     embedding_function=LocalHFEmbedding("Qwen/Qwen3-Embedding-0.6B")
@@ -32,7 +32,7 @@ query1 = "where does he lives"
 query2 = "order juice"
 
 results = collection.query(
-    query_texts=[query1, query2], # Chroma will embed this for you # return list of list
+    query_texts=[query1, query2], # Chroma will embed this for you and return list of list
     n_results=1 # how many results to return,
 )
 print(results)

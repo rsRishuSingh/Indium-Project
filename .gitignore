@@ -1,4 +1,9 @@
 .env
-Notes.txt
 venv
+aliases
+chromaDB
+Notes.txt
+collections
+faiss_Vectorstore
+
 

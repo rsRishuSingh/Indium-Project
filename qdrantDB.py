@@ -41,7 +41,10 @@ qdrant = Qdrant.from_texts(
 #     print("Metadata:", doc.metadata)
 
 
-# retrieve using qdrant client
+# official qDB client ( not from langchain wrapper )
+
+
+# retrieve using qdrant client offiial client of Qdrant
 client = QdrantClient(
     url="http://localhost:6333",
     prefer_grpc=False

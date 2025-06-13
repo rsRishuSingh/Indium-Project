@@ -12,6 +12,7 @@ groq_api_key = os.environ.get("GROQ_API_KEY")
 # Load embedding model from Hugging Face
 embeddings_model  = HuggingFaceEmbeddings(model_name="Qwen/Qwen3-Embedding-0.6B"
 )
+
 def useGroq():
     client = Groq(groq_api_key)
     completion = client.chat.completions.create(
@@ -33,7 +34,7 @@ def useGroq():
 
 
 # spiltter is chunker here  
-# plitter.split_text(text) generate txtual chunks
+# splitter.split_text(text) generate txtual chunks
 # Define splitting functions 
 
 def character_split(text, chunk_size=1000, chunk_overlap=200):
@@ -55,13 +56,13 @@ def page_wise_split(page_texts):
 
 def print_chunks(chunks, num_to_print=3):
     print(f"Total chunks: {len(chunks)}")
-    # for i in range(min(num_to_print, len(chunks))):
-    #     chunk = chunks[i]
-    #     preview = chunk[:100] + "..." if len(chunk) > 100 else chunk
-    #     print(f"Chunk {i+1} (length {len(chunk)}): {preview}")
-    for i in range(len(chunks)):
+    for i in range(min(num_to_print, len(chunks))):
+        chunk = chunks[i]
+        preview = chunk[:100] + "..." if len(chunk) > 100 else chunk
+        print(f"Chunk {i+1} (length {len(chunk)}): {preview}")
+    # for i in range(len(chunks)):
    
-        print(f"Chunk {i+1}-> {chunks[i]}", end='\v')
+    #     print(f"Chunk {i+1}-> {chunks[i]}", end='\v')
 
 # Function to extract text from a PDF
 def extract_text_from_pdf(pdf_path):
@@ -95,7 +96,8 @@ def main():
 
             # chunks_char = character_split(page_texts[0])
             # chunks_recursive = recursive_split(full_text)
-            chunks_semantic = semantic_split(page_texts[0],embeddings_model,breakpoint_threshold_type="percentile")
+            chunks_semantic = semantic_split(page_texts[0],embeddings_model,breakpoint_threshold_type="percentile") #percentile of similarity scores between consecutive sentences 
+            
             # chunks_page = page_wise_split(page_texts)
             
             # Print results
@@ -116,4 +118,5 @@ def main():
 
 
 
-main()
+if __name__ == "__main__":
+    main()

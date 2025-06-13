@@ -57,7 +57,7 @@ print(results)
 # )
 # print(results['embeddings'])
 
-# chroma_client.persist()
+# chroma_client.persist(it requiers path here ?)
 
 #Reload DB
 # chroma_client = chromadb.Client(Settings(

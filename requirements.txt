@@ -4,6 +4,7 @@ numpy
 PyMuPDF     
 chromadb 
 langchain  
+rank-bm25
 transformers
 qdrant-client
 huggingface-hub

@@ -96,7 +96,7 @@ def main():
 
             # chunks_char = character_split(page_texts[0])
             # chunks_recursive = recursive_split(full_text)
-            chunks_semantic = semantic_split(page_texts[0],embeddings_model,breakpoint_threshold_type="percentile") #percentile of similarity scores between consecutive sentences 
+            chunks_semantic = semantic_split(page_texts[6],embeddings_model,breakpoint_threshold_type="percentile") #percentile of similarity scores between consecutive sentences 
             
             # chunks_page = page_wise_split(page_texts)
             

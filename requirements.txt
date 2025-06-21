@@ -6,9 +6,8 @@ chromadb
 langchain  
 rank-bm25
 transformers
-qdrant-client
+qdrant_client
 huggingface-hub
 langchain_community
 langchain_huggingface
-sentence_transformers
-langchain_experimental
+
